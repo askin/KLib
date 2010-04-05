@@ -1,0 +1,4 @@
+int RemoveFirstLinkedList(LinkedList *llist)
+
+Sadece elemanı listeden kaldırır. İçeriğindeki bilgiyi silmez.
+Eğer kullanıcı eklediği elamanın bellekten silinmesini istiyorsa bunu kendisi yapmalı.
